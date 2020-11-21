@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EquityIntegration.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EquityIntegration_AllStudentsLists_AllStudentsLists_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://desktop-fo4fjut:7102/IESR/WS/New%20KPLC%20Test/Page/AllStudentsLists</Value>
+    </Setting>
+    <Setting Name="EquityIntegration_StudentBankPaymentsCard_StudentBankPaymentsCard_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://desktop-fo4fjut:7102/IESR/WS/New%20KPLC%20Test/Page/StudentBankPaymentsCard</Value>
+    </Setting>
+    <Setting Name="EquityIntegration_Student_Bank_Payments_Student_Bank_Payments_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://desktop-fo4fjut:7102/IESR/WS/New%20KPLC%20Test/Page/Student_Bank_Payments</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
